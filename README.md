@@ -63,8 +63,8 @@ TripExperienceAPI/
 ### 1. Clone the repo and restore packages
 
 ```bash
-git clone https://github.com/yourusername/tripexperience-api.git
-cd tripexperience-api
+gh repo clone AyushKumar2019/TripExperienceAPI
+cd TripExperienceAPI
 dotnet restore
 ```
 OR 
